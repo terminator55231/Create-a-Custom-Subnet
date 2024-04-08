@@ -1,0 +1,52 @@
+[03-31|00:12:57.882] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|00:12:57.911] INFO client/client.go:139 start
+[03-31|00:13:42.308] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|00:13:42.352] INFO client/client.go:139 start
+[03-31|00:14:01.592] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|00:14:01.634] INFO client/client.go:139 start
+[03-31|00:14:21.364] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|00:14:21.392] INFO client/client.go:139 start
+[03-31|00:18:19.866] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|00:18:20.006] INFO client/client.go:139 start
+[03-31|00:18:25.012] INFO client/client.go:148 create blockchains
+[03-31|00:20:40.333] INFO client/client.go:181 status
+[03-31|13:40:01.320] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|13:40:01.477] INFO client/client.go:139 start
+[03-31|13:40:06.983] INFO client/client.go:148 create blockchains
+[03-31|13:41:37.183] INFO client/client.go:181 status
+[03-31|16:05:46.742] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|16:05:46.875] INFO client/client.go:139 start
+[03-31|16:06:52.764] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|16:06:52.923] INFO client/client.go:139 start
+[03-31|16:13:53.647] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|16:13:53.806] INFO client/client.go:139 start
+[03-31|16:13:59.904] INFO client/client.go:148 create blockchains
+[03-31|16:15:39.167] INFO client/client.go:181 status
+[03-31|23:08:36.465] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|23:08:36.888] INFO client/client.go:139 start
+[03-31|23:13:07.240] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[03-31|23:13:07.373] INFO client/client.go:139 start
+[03-31|23:13:14.616] INFO client/client.go:148 create blockchains
+[03-31|23:15:03.295] INFO client/client.go:181 status
+[04-01|00:33:41.682] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[04-01|00:33:41.709] INFO client/client.go:139 start
+[04-01|00:33:44.630] INFO client/client.go:148 create blockchains
+[04-01|00:35:30.139] INFO client/client.go:181 status
+[04-02|15:26:55.154] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[04-02|15:26:55.274] INFO client/client.go:139 start
+[04-02|15:39:49.436] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[04-02|15:39:49.569] INFO client/client.go:139 start
+[04-02|15:39:52.401] INFO client/client.go:148 create blockchains
+[04-02|15:41:19.072] INFO client/client.go:181 status
+[04-03|15:00:14.520] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[04-03|15:00:14.654] INFO client/client.go:139 start
+[04-03|15:00:17.993] INFO client/client.go:148 create blockchains
+[04-03|15:01:36.177] INFO client/client.go:181 status
+[04-03|17:22:40.876] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[04-03|17:22:41.386] INFO client/client.go:139 start
+[04-03|17:22:46.234] INFO client/client.go:148 create blockchains
+[04-03|17:24:23.085] INFO client/client.go:181 status
+[04-05|18:35:11.414] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[04-05|18:35:11.443] INFO client/client.go:139 start
+[04-05|18:35:14.420] INFO client/client.go:148 create blockchains
+[04-05|18:36:42.128] INFO client/client.go:181 status
